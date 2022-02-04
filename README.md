@@ -83,4 +83,4 @@ You can do this by:
 
 Let's get started immediately.
 
-[![Next Lesson](../Assets/../Python-Tutorial-From-Beginer-to-Expert/Assets/NextLesson.png "Next")](./Lessons/0.0_Intro.ipynb)
+[![Next Lesson](./Assets/NextLesson.png "Next")](./Lessons/0.0_Intro.ipynb)
