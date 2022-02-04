@@ -62,7 +62,7 @@ They are several other methods to run a python notebook, but i trust you to disc
  4. The lessons were organized in a step wise manner. This means that each lesson builds on top of the previous one, therefore it is advisible for you to take the lessons one after another.
  5. Give this repo a star ⭐ to add more visibility to it.
 
-Continue to the [next Lesson](helllo), unless you want to read further.
+Continue to the [next Lesson](./Lessons/0.0_Intro.ipynb), unless you want to read further.
 
 ## 🤝Contributing
 
@@ -82,5 +82,7 @@ You can do this by:
 📝 Make your changes in bits to enable simpler pull requests and faster merge.
 
 Let's get started immediately.
+
+If you find the course useful and could afford it, [buy me a coffee](https://www.buymeacoffee.com/vickjoe) or consider sponsoring the repo.
 
 [![Next Lesson](./Assets/NextLesson.png "Next")](./Lessons/0.0_Intro.ipynb)
