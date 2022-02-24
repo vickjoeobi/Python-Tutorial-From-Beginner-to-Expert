@@ -1,6 +1,6 @@
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/vickjoeobi/Python-Tutorial-From-Beginer-to-Expert)
 
-# Learn Python from Beginner level to expert
+# Learn Python from Beginner level to expert (Beta - In active Development)
 
 This is a comprehensive interactive python tutorial taking you from the basics to expert level.
 
